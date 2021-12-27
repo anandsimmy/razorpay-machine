@@ -1,0 +1,19 @@
+.dropdownWrapper {
+    position: relative;
+    width: 300px;
+    margin: 100px;
+}
+
+.input {
+    padding: 5px;
+    border-radius: 4px;
+    width: 220px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.dropdownList {
+    position: absolute;
+    top: 35px;
+    left: 33px;
+}
